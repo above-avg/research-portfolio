@@ -1,0 +1,3 @@
+[submodule "pytorchblitz"]
+	path = pytorchblitz
+	url = https://github.com/above-avg/pytorchblitz
