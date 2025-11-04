@@ -1,3 +1,7 @@
 [submodule "pytorchblitz"]
 	path = pytorchblitz
 	url = https://github.com/above-avg/pytorchblitz
+[submodule "CIFAR10-classifier"]
+	path = CIFAR10-classifier
+	url = https://github.com/above-avg/CIFAR10-classifier.git
+	branch = main
