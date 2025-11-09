@@ -1,0 +1,12 @@
+[submodule "medical-ai/pap-smear-binary-classifier-92acc"]
+	path = medical-ai/pap-smear-binary-classifier-92acc
+	url = https://github.com/above-avg/pap-smear-binary-classifier-92acc.git
+	branch = main
+[submodule "vision/CIFAR10-classifier"]
+	path = vision/CIFAR10-classifier
+	url = https://github.com/above-avg/CIFAR10-classifier.git
+	branch = main
+[submodule "core-ml/pytorchblitz"]
+	path = core-ml/pytorchblitz
+	url = https://github.com/above-avg/pytorchblitz.git
+	branch = main
