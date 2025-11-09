@@ -5,3 +5,7 @@
 	path = CIFAR10-classifier
 	url = https://github.com/above-avg/CIFAR10-classifier.git
 	branch = main
+[submodule "pap-smear-binary-classifier-92acc"]
+	path = pap-smear-binary-classifier-92acc
+	url = https://github.com/above-avg/pap-smear-binary-classifier-92acc.git
+	branch = main
